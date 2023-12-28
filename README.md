@@ -62,6 +62,8 @@ cv2_imshow(image)
 ```
 ## Faster R-CNN 결과 확인
 #### inference code : FasterRCNN/src/inference
+
+#### 시각화 코드
 ```python
 
 detection_threshold = 0.4
