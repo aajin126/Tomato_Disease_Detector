@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍅 TOMATO_DISEASE_DETECTOR
 ## 🕒Development period
 23.06.20 - 23.07.03
