@@ -127,7 +127,7 @@ print('TEST PREDICTIONS COMPLETE')
 cv2.destroyAllWindows()
 
 ```
-## RetinaNet
+### RetinaNet
 #### Inference
 ```python
 # load retinanet model
